@@ -299,7 +299,7 @@ letter-spacing: 0%;
 /* my inspiration section end */
 /* iframe section start */
 .iframe-container{
-   margin-bottom: 150px;
+   margin-bottom: 200px;
 }
 .iframe-content{
     margin: 0 auto;
@@ -312,3 +312,166 @@ letter-spacing: 0%;
 }
 
 /* iframe section end */
+/* my target section  start */
+.current-target-container{
+    margin-bottom: 100px;
+}
+.current-target-content{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+    text-align: center;
+}
+.current-target-content h1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+margin-bottom: 15px;
+}
+.current-target-content p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+}
+/* my target section  end */
+/* my target card section  start */
+.target-card-container{
+    margin-bottom: 200px;
+}
+.target-card-content{
+    margin: 0 auto;
+    width: 1140px;
+    height: 300px;
+    display: flex;
+    gap: 30px;
+}
+.target-card-content .card-1{
+    width: 364px;
+    height: 299px;
+    background: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    padding: 30px;
+}
+.target-card-content .card-2{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+    padding: 30px;
+}.target-card-content .card-3{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+    padding: 30px;
+    
+}
+.target-card-content .card-1 img{
+    margin-bottom: 20px;
+} 
+.target-card-content .card-1 h1{
+ color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.target-card-content .card-1 p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+margin-bottom: 5px;
+}
+
+.target-card-content .card-3 img{
+    margin-bottom: 20px;
+} 
+.target-card-content .card-2 h1{
+ color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.target-card-content .card-2 p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+margin-bottom: 20px;
+}
+.target-card-content .card-3 img{
+    margin-bottom: 20px;
+} 
+.target-card-content .card-3 h1{
+ color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.target-card-content .card-3 p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+margin-bottom: 10px;
+}
+.target-card-content .card-1 a{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
+.target-card-content .card-2 a{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+}
+
+.target-card-content .card-3 a{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+ }
+
+ /* my target card section  end */
+        
+    
