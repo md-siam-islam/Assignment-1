@@ -3,3 +3,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* nav part start */
+nav{
+    width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid red;
+    padding: 20px;
+}
+nav .nav-text h1{
+color: rgb(13, 19, 33);
+font-size: 28px;
+font-weight: 800;
+line-height: 33px;
+letter-spacing: 0%;
+}
+nav .nav-button button{
+border: 1px solid rgb(13, 19, 33);
+border-radius: 8px;
+opacity: 0.8;
+padding: 15px;
+font-size: 17px;
+font-weight: bold;
+}
+/* nav part end */
+/* banner section start */
+.banner-container{
+    width: 1440px;
+    height: 652px;
+    background-image: url(./assets/Hero-bg.png);
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+}
