@@ -172,7 +172,8 @@ width: 850px;
 height: 240px;
 display: flex;
 align-items: center;
-box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px3px 7px -3px;
+background-color: #fff;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 border-radius: 10px;
 padding: 30px;
 }
@@ -222,9 +223,11 @@ width: 850px;
 height: 240px;
 display: flex;
 align-items: center;
-box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px3px 7px -3px;
+background-color: #fff;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 border-radius: 10px;
 padding: 30px;
+
 }
 .frame-3-text{
 width: 50%;
@@ -263,3 +266,49 @@ width: 50%;
 text-align: right; 
 }
 /* frame 3 section end */
+/* my inspiration section start */
+
+.my-inspiration-container{
+    margin-top: 400px;
+    margin-bottom: 100px;
+}
+.my-inspiration-content{
+    margin: 0 auto;
+    width: 852px;
+    height: 113px;
+    text-align: center;
+}
+.my-inspiration-content h1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+margin-bottom: 15px;
+}
+.my-inspiration-content p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+}
+
+/* my inspiration section end */
+/* iframe section start */
+.iframe-container{
+   margin-bottom: 150px;
+}
+.iframe-content{
+    margin: 0 auto;
+    width: 1076px;
+    height: 600px;
+}
+.iframe-content iframe{
+    width: 100%;
+    height: 100%;
+}
+
+/* iframe section end */
