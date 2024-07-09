@@ -79,14 +79,14 @@ margin-bottom: 10px;
 /* banner section end */
 /* why web development part start */
 .development-container{
-    margin-top: 180px;
-    margin-bottom: 150px;
+margin-top: 180px;
+
 }
 .development-content{
-    width: 852px;
-    height: 113px;
-    margin: 0 auto;
-    padding-top: 30px;
+width: 852px;
+height: 113px;
+margin: 0 auto;
+padding-top: 30px;
 }
 .development-content h1{
 color: rgb(13, 19, 33);
@@ -108,4 +108,158 @@ letter-spacing: 0%;
 text-align: center;
 }
 /* why web development part end */
-
+/* frame 1 section start */
+.frame-1-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.frame-1-content{
+    margin: 0 auto;
+    width: 850px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-radius: 10px;
+    padding: 30px;
+}
+.frame-1-text{
+    width: 50%;
+    height: 100%;
+}
+.frame-1-text h1{
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.frame-1-text p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin-bottom: 10px;
+}
+.frame-1-text .frame-1-btn button{
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+padding: 12px 20px 12px 20px;
+font-size: 16px;
+}
+.frame-1-img{
+    width: 50%;
+   text-align: right; 
+}
+/* frame 1 section end */
+/* frame 2 section start */
+.frame-2-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.frame-2-content{
+    margin: 0 auto;
+    width: 850px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-radius: 10px;
+    padding: 30px;
+}
+.frame-2-text{
+    width: 60%;
+    height: 100%;
+}
+.frame-2-text h1{
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+margin-bottom: 10px;
+}
+.frame-2-text p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+opacity: 0.7;
+margin-bottom: 10px;
+}
+.frame-2-text .frame-2-btn button{
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+padding: 12px 20px 12px 20px;
+font-size: 16px;
+}
+.frame-2-img{
+   width: 40%;
+   text-align: left; 
+}
+/* frame 2 section end */
+/* frame 3 section start */
+.frame-3-container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.frame-3-content{
+    margin: 0 auto;
+    width: 850px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-radius: 10px;
+    padding: 30px;
+}
+.frame-3-text{
+    width: 50%;
+    height: 100%;
+}
+.frame-3-text h1{
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 10px;
+}
+.frame-3-text p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.7;
+margin-bottom: 10px;
+}
+.frame-3-text .frame-3-btn button{
+box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+opacity: 0.7;
+padding: 12px 20px 12px 20px;
+font-size: 16px;
+}
+.frame-3-img{
+    width: 50%;
+   text-align: right; 
+}
+/* frame 3 section end */
