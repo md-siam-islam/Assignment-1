@@ -11,7 +11,6 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border: 2px solid red;
     padding: 20px;
 }
 nav .nav-text h1{
@@ -44,7 +43,6 @@ font-family: Azeret Mono;
 .banner-content{
     width: 998px;
     min-height: 582px;
-    border: 2px solid red;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -79,3 +77,34 @@ margin-bottom: 10px;
     font-size: 15px;
 }
 /* banner section end */
+/* why web development part start */
+.development-container{
+    margin-top: 180px;
+    margin-bottom: 150px;
+}
+.development-content{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.development-content h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 20px;
+}
+.development-content p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+/* why web development part end */
