@@ -624,6 +624,43 @@ font-family: Azeret Mono;
     margin-left: 10px;
  }
   /* support section end */
+  /* footer section start */
+  .footer-container{
+    width: 1440px;
+    height: 100px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .footer-content{
+    width: 1140px;
+    height: 36px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+  }
+  .footer-social-link{
+    padding-top: 8px;
+  }
+  .footer-social-link img{
+    width:25.25px;
+    height: 28.25px;
+    margin-right: 10px;
+  }
+  .footer-text p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+  }
  
         
     
