@@ -560,5 +560,70 @@ text-decoration-line: underline;
  }
 
  /* backend card section end */
+ /* support section start */
+ .support-container{
+    margin-bottom: 150px;
+ }
+ .support-section-content{
+    margin: 0 auto;
+    width: 1140px;
+    height: 313px;
+    background-image:url(./assets/handshake.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+ }
+ .support-section-content .support-text h1{
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 38px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 10px;
+ }
+ .support-section-content .support-text p{
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+margin-bottom: 15px;
+ }
+input[type="text"]{
+width: 548px;
+height: 57px;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+font-size: 15px;
+padding-left: 10px;
+font-family: Azeret Mono;
+ }
+ input[type="submit"]{
+    width: 120px;
+    height: 57px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-left: 10px;
+ }
+  /* support section end */
+ 
         
     
